@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+WonderScript is an education-focused organization that builds cutting-edge software solutions that support learning and development. Our software engineers are at the heart of this effort, applying their technical expertise and creativity to develop innovative products and services that enhance the learning experience.
+Our commitment to excellence, collaboration, and continuous learning defines our engineering culture
+
 <!--
 
 **Here are some ideas to get you started:**
